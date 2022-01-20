@@ -86,7 +86,7 @@ public class StudentManagement {
             System.out.println(
                 "学课编号为"
                     + cm.getCourseManagement_1().get(k).getCourseNo()
-                    + "该课程的学分为:"
+                    + "该课程的学分为："
                     + cm.getCourseManagement_1().get(k).getCourseCredit());
             sum += cm.getCourseManagement_1().get(k).getCourseCredit();
           }

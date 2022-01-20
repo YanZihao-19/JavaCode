@@ -72,7 +72,7 @@ public class Student {
 
   @Override
   public String toString() {
-    return "学生信息:"
+    return "学生信息："
         + "学号='"
         + studentID
         + '\''

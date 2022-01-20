@@ -18,7 +18,7 @@ public class Main {
   }
 
   static void showMenu2() {
-    System.out.println("\n根据所有学生信息，有以下功能:");
+    System.out.println("\n根据所有学生信息，有以下功能：");
     System.out.println("a - 根据学号查询学员的信息");
     System.out.println("b - 根据学号查询学员的总学分和");
     System.out.println("c - 根据班级编号获取该班级的学员信息");

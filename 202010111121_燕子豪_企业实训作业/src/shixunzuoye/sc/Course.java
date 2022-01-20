@@ -54,7 +54,7 @@ public class Course {
 
   @Override
   public String toString() {
-    return "课程信息:"
+    return "课程信息："
         + "课程编号="
         + courseNo
         + ", 课程名称="

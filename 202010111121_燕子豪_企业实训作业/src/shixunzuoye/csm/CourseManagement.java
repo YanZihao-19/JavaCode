@@ -4,7 +4,7 @@ import java.util.Map;
 import shixunzuoye.sc.*;
 
 /**
- * 定义一个课程管理类，可以完成- -下功能的数据管理 管理类操作Map集合数据, key为课程编号 value课程对象 1)初始化功能，向Map集合中添加若干课程信息
+ * 定义一个课程管理类，可以完成一下功能的数据管理 管理类操作Map集合数据, key为课程编号 value课程对象 1)初始化功能，向Map集合中添加若干课程信息
  * 2)根据课程编号,获取对应的课程信息 3)根据课程名称关键字，获取包含该关键字的课程对应的课程信息
  */
 public class CourseManagement {
