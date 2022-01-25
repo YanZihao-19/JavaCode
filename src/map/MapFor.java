@@ -13,7 +13,7 @@ public class MapFor {
         hs.put("zl", 20);
         hs.put("zs", 19);
         hs.put("ls", 18);
-        hs.put("ww", 17);
+        hs.put("ww", 16);
 
         // 第一种遍历:Set<K> keySet(); V get(K);和foreach或迭代器
         Set<String> set1 = hs.keySet();
